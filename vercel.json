@@ -1,0 +1,9 @@
+{
+    "builds": [
+        {
+          "config": {
+            "includeFiles": ["./data/db.json"]
+          }
+        }
+      ]
+}
